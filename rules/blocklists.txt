@@ -10068,6 +10068,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -10957,7 +10958,6 @@ ads.wenet.pl
 ads.wetpussy.sexy
 ads.whitelabelpros.com
 ads.whoishostingthis.com
-ads.wiezoekje.nl
 ads.wikia.nocookie.net
 ads.win555capi.com
 ads.wineenthusiast.com
@@ -11452,6 +11452,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15090,7 +15091,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -17841,6 +17841,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -18537,7 +18538,6 @@ android.crashsight.qq.com
 android.heyzap.com
 android.palmst0re.com
 android.push.126.net
-android.rqd.qq.com
 android.sentry.teamviewer.com
 android.unid.go.com
 androidads20.adcolony.com
@@ -19452,6 +19452,7 @@ api.autoflixtreinamentos.com
 api.autopilothq.com
 api.avo.app
 api.axept.io
+api.azzmirasaura.com
 api.b2c.com
 api.badaluy.com
 api.bailingjiankang.com
@@ -22322,7 +22323,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -22625,7 +22625,6 @@ askmebefore.biz
 asknicely.com
 askprivate.com
 asksbirrs.cyou
-asksusi.com
 asksw.cc
 askulcorporation.tt.omtrdc.net
 asl.mybluehost.me
@@ -26310,7 +26309,6 @@ beelinks.solutions
 beemanbacuryliaise.qpon
 beemray.com
 beemrdwn.com
-beencoreet.live
 beencoriqvcep.site
 beencounter.com
 beenover.com
@@ -33761,8 +33759,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
-cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -41833,6 +41829,7 @@ cwcdmm.zennioptical.com
 cwchjisabnnmx.space
 cwchmb.com
 cwclrbjglcccp.website
+cweb.com
 cwfvvc1505fa2742.top
 cwgwgo.ecanta.com.tr
 cwh-prd-aus-server-side-tagging-243225832677.australia-southeast1.run.app
@@ -59712,6 +59709,7 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
@@ -59720,6 +59718,7 @@ falcon1.net
 falconduties.shop
 falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -63156,6 +63155,7 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -66311,6 +66311,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -82181,7 +82182,6 @@ jackpotdewa.cc
 jacksgunshop.cc
 jacksonbateaux.com
 jacksonnationallifei.tt.omtrdc.net
-jacquesvalente.com
 jacquieetmichel-contact.com
 jacsg.belaro.ro
 jada-ny.org
@@ -87446,7 +87446,6 @@ lawfulness85.com
 lawfulpatience.com
 lawksister.shop
 lawmakecluther.com
-lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawyeritalyaching.com
@@ -89881,6 +89880,7 @@ load.analytics.promisingoutlook.com
 load.analytics.purape.jp
 load.analytics.raeganmusic.com
 load.analytics.rampd.org
+load.analytics.rcbmods.com
 load.analytics.renab.pl
 load.analytics.renauld-sunglasses.com
 load.analytics.renauld.co.uk
@@ -111711,7 +111711,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -116358,6 +116357,7 @@ opendownloadmanager.com
 opendsp.ru
 opendsp.vip
 openedv.com
+openerclassify.com
 openercompetent.com
 openeye.openmods.info
 openfpcdn.io
@@ -122276,7 +122276,6 @@ plugin.management
 plugin.me2day.net
 plugin.mediavoice.com
 plugin.mobopay.baidu.com
-plugin.ucads.ucweb.com
 plugin.ws
 pluginnetwork.net
 plugins.mixi.jp
@@ -123047,7 +123046,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -125974,7 +125972,6 @@ px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
 px.r4u.be
-px.sharethis.com
 px.spiceworks.com
 px.srvcs.tumblr.com
 px.staticfiles.at
@@ -130349,7 +130346,6 @@ rainyhand.com
 rainyrule.com
 raisedfaraway.com
 raisedghostsscalpel.com
-raisedlicenseexpedient.com
 raisedtributeefficacious.com
 raisingpeppermint.com
 raisonsunfine.qpon
@@ -135857,7 +135853,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -158059,6 +158054,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160710,6 +160706,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -179105,7 +179102,6 @@ tracking.m.mercedes-benz.com.cn
 tracking.m.mercedes-benz.com.sg
 tracking.m.mercedes-benz.ru
 tracking.m6r.eu
-tracking.maccudo.online
 tracking.mail.ti.com
 tracking.mail.ti.com.cn
 tracking.majaalis.online
@@ -186763,6 +186759,7 @@ veepai-device-log.eye4.cn
 veepn.g2afse.com
 veersantrealestate.dubaii.me
 veeseo.com
+veeso.co
 vefgg.katespade.com
 vefmfptjnucij.online
 vegabet.net
@@ -193412,6 +193409,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -195150,6 +195148,7 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
+www.www.my-exodus.com.co
 www.xadsmart.com
 www.xapads.com
 www.xiaodaoyuedu.com
@@ -201176,7 +201175,6 @@ zs16.cnzz.com
 zs2.cnzz.com
 zs25.cnzz.com
 zs2a6zft50.cfd
-zs3.cnzz.com
 zs4.cnzz.com
 zs5.cnzz.com
 zs6.cnzz.com
