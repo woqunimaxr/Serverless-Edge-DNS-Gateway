@@ -10258,7 +10258,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15361,8 +15360,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -22450,6 +22447,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23365,6 +23363,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27925,6 +27924,8 @@ bestfungamestoday.com
 bestfunnyads.com
 bestgirlsjourneys.com
 bestgugo.xyz
+bestgugo1.xyz
+bestgugo2.xyz
 besthabit.pro
 besthealthblog.pro
 besthitsnow.com
@@ -28052,6 +28053,7 @@ bettingads.365scores.com
 bettingbarfy.shop
 bettingcurly.com
 bettinginvulnerablebarbed.com
+bettingoffer.xyz
 bettingpartners.com
 bettingstugan.se
 bettraff.com
@@ -28946,6 +28948,7 @@ bitclubnetwork.com
 bitcoadz.io
 bitcodrom.xyz
 bitcoincashcode.org
+bitcoines.com
 bitcoinqrcodemaker.com
 bitcoinsports.org
 bitdefender.f9tmep.net
@@ -29409,6 +29412,8 @@ blockchaintop.nl
 blockdial.com
 blockerpozzyskyward.cyou
 blockietv.xyz
+blockietv1.xyz
+blockietv2.xyz
 blocklisted.net
 blockmetrics.com
 blocksfeathers.com
@@ -35590,6 +35595,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35733,6 +35739,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -46661,6 +46668,7 @@ d3sh7inoi83mn7.cloudfront.net
 d3skqyr7uryv9z.cloudfront.net
 d3sof4x9nlmbgy.cloudfront.net
 d3srxd2wvksmqd.cloudfront.net
+d3sv.net
 d3svxlu1oafo86.cloudfront.net
 d3t16rotvvsanj.cloudfront.net
 d3t3bxixsojwre.cloudfront.net
@@ -49790,7 +49798,6 @@ data.candidtails.com
 data.canon.club-news.com.hk
 data.capella.edu
 data.capgemini.adobesandbox.com
-data.capriatacursos.com.br
 data.cardiorisk.com
 data.cargointernational.de
 data.carnival-uk-dev.test.ajo.adobe.com
@@ -75740,6 +75747,7 @@ gtm.aviationtag.com
 gtm.aviliahome.it
 gtm.avioza.al
 gtm.avserramenti.it
+gtm.avu.ca
 gtm.awrestaurants.com
 gtm.awsales.io
 gtm.axeandawlleatherworks.com
@@ -77403,6 +77411,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -94387,6 +94396,7 @@ ka.rotageek.com
 ka1.sexvnhd.vip
 kaacsi.belvilla.nl
 kaadqpoorrhsy.site
+kaarlojosefmail.com
 kaascypher.com
 kabbmedia.com
 kabbo.kabbocollectionbd.com
@@ -98741,6 +98751,8 @@ light-tennis.pro
 lightad.com
 lightboxcdn.com
 lightbrights.xyz
+lightbrights1.xyz
+lightbrights2.xyz
 lightcast.com
 lightenafterthought.com
 lightenslush.com
@@ -133006,6 +133018,8 @@ partridgevowel.com
 parts.akibablog.net
 partsoptimisticrebound.com
 partsroll.xyz
+partsroll1.xyz
+partsroll2.xyz
 partwithner.com
 party-vqgdyvoycc.now.sh
 party.beyond-memories.com
@@ -136835,6 +136849,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -140204,7 +140219,6 @@ q2fwgl4q8.com
 q2hno7n37y4.kh6nxzf3ozmebjy2nq.cyou
 q2i8kd5n.de
 q2tqrsh02.com
-q31cwh.5l7kmfxje2933jb8pi1x1cz.cyou
 q3b8j7.uthqnrwntwqxg8h8h1wgx5b.cyou
 q3ed8s147n.cfd
 q3ei4f.rophim10.app
@@ -144354,6 +144368,7 @@ racgpoclwvdub.space
 rachel7040.ntup.network
 rachesbejeled.cfd
 racialboats.com
+racialregister.com
 racingfamilyvillage.com
 racingorchestra.com
 racismdebitum.shop
@@ -145964,6 +145979,7 @@ reklam.turkmmo.com
 reklam.yonlendir.com
 reklam7.com
 reklam8.net
+reklama-net.ru
 reklama.botevgrad.com
 reklama.eforum.lt
 reklama.mail.ru
@@ -152574,7 +152590,6 @@ sangleybrazils.cyou
 sangleygunsman.com
 sangmoonlightstake.com
 sangopportunity.com
-sangramautocomp.com
 sangria.outbrain.com
 sanguinecocky.com
 sanguineslang.com
@@ -160294,7 +160309,6 @@ sgmt.lonas.lt
 sgmt.phedra.ai
 sgmt.vibefitness.it
 sgmtcdn.san-marco.com
-sgood.ru
 sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com
 sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
 sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com
@@ -173832,7 +173846,6 @@ ss.bramidan.com
 ss.bramidan.fr
 ss.bramidan.ie
 ss.bramidan.nl
-ss.brandsupplies.store
 ss.bravedaughters.com
 ss.breezacool.com
 ss.brewshop.co.nz
@@ -177191,7 +177204,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181023,7 +181035,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -186350,7 +186361,6 @@ start.ewicenter.pl
 start.fotostrana.ru
 start.mediware.com
 start.mybillingtree.com
-start.parimatch.com
 start.ptl.org
 start.sexpartnercommunity.com
 start.sharpclinical.com
@@ -189719,7 +189729,6 @@ stuckashespassion.com
 studads.com
 student.drphiliptisdall.com
 studentbackr.com
-studentki-sex.life
 studio-crash.snapchat.com
 studio-t.teads.tv
 studio.brand-display.com
@@ -193319,7 +193328,6 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
-tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -194980,7 +194988,6 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
-tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
@@ -196213,6 +196220,7 @@ thearcofohio.org
 thearwh.org
 thebeachpokhara.com
 thebestbetmakers.xyz
+thebestbetmakers1.xyz
 thebestdates.net
 thebestgame2020.com
 thebestlinks.com
@@ -217809,7 +217817,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
