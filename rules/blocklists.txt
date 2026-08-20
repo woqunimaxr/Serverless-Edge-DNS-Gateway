@@ -10267,6 +10267,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15363,6 +15364,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -16396,7 +16398,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -18320,6 +18321,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -22447,7 +22449,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23368,7 +23369,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35610,7 +35610,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -43325,6 +43324,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -43579,7 +43579,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -52745,6 +52744,7 @@ dcai7bdiz5toz.cloudfront.net
 dcapps.disney.go.com
 dcapugcaiirxs.site
 dcavixmtxjxra.site
+dcaynjhiywz.com
 dcazkddmpuwkw.website
 dcb.dannyclosetboutique.com.br
 dcb33ef688.6e7e9acff5.com
@@ -69049,12 +69049,14 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
 freeingpilaff.cfd
 freeipapi.com
 freejoomlatemplatez.com
+freeko.pl
 freelancepivot.xyz
 freelinks.neocities.org
 freelogs.com
@@ -72805,6 +72807,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -72889,7 +72892,6 @@ glusidforwake.qpon
 glutenmuttsensuous.com
 glutenscalinda.cyou
 gluvrkcvvldus.website
-gluyxsrwtuktb.com
 glvhvesvnp.com
 glvmtlnxdxdhl.website
 glwdce.thewinecollective.com.au
@@ -74471,7 +74473,6 @@ grabtrk.com
 grace.shareaholic.com
 gracefulmilk.com
 graciamediaweb.com
-gracious-parent.pro
 gracioushaircut.com
 graciousprofit.pro
 graciousunique.com
@@ -77411,7 +77412,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -91941,6 +91941,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -102838,6 +102839,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -106589,7 +106591,6 @@ looibkennqryb.space
 look-ahead.nurturemarketing.com
 look-i-ya.com
 look.desafio.agentise.ia.br
-look.flowln.com
 look.kfiopkln.com
 look.ufinkln.com
 look09.com
@@ -111019,6 +111020,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -112414,6 +112416,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -145515,7 +145518,6 @@ redir.juicyads.com
 redir.lowtid.xyz
 redir.ownpage.fr
 redir.summerwaveadventures.com
-redir.sunnyshore.xyz
 redir.tradedoubler.com
 redir.tropicalsands.club
 redir.tropicalsummer.xyz
@@ -150343,7 +150345,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -150976,7 +150977,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -156445,6 +156445,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -158634,6 +158635,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -177087,6 +177089,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -180913,6 +180916,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -205123,7 +205127,6 @@ ttc.lionworldtravel.com
 ttc.mybluehost.me
 ttcontacts.com
 ttdaomggbigdg.space
-ttdbj.com
 ttdm2.me
 tteazmoqpol.in
 ttedwm.com
@@ -208669,7 +208672,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -220333,7 +220335,6 @@ xflwb.august.la
 xfmybdtedhzel.website
 xfnams.undone.co.jp
 xfobuc.serenaandlily.com
-xfourtjoucobpa.com
 xfqiwwdxryuvo.website
 xfrguohlskkmq.site
 xfslhh.visureinrete.it
@@ -220479,7 +220480,6 @@ xiaomitoo.com
 xiaopinwo.com
 xiaoshuoyun.cn
 xiapuhdhbdsmd.online
-xiastvfljf.com
 xiaxslpsgdblw.site
 xiazai.cdren.com
 xiazai.crossoverchina.com
@@ -224538,6 +224538,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
