@@ -94,7 +94,6 @@
 058d79990c.com
 0597qc.com
 05b9daf35c.com
-05block.com
 05e76a16b8.5e3d5f480f.com
 05f3b6b187.com
 0618b93770.com
@@ -693,7 +692,6 @@
 1directory.ru
 1dlvai.com
 1dmp.io
-1dor1d6vc.com
 1dtdsln1j.de
 1e03d2091a.com
 1e88ea0e55.540484935e.com
@@ -1107,7 +1105,6 @@
 28ee238dde8640af.hd-plus.de
 28f810077f.com
 28fe4575ab.fb53d9afaf.com
-28jbkeigl.com
 28p5qq8mm.de
 28yw0a.ru
 290d8227a2.com
@@ -4453,7 +4450,6 @@ a8.shokubun.net
 a8.shop-jp.technogelworld.com
 a8.shop.basefood.co.jp
 a8.shop.dreammug.co.jp
-a8.shop.km-link.jp
 a8.shop.nicosuma.com
 a8.shop.scrop-coffee-roasters.com
 a8.shop.tsukijiwadatsumi.com
@@ -8082,7 +8078,6 @@ adapace.gotrackier.com
 adapex.io
 adapf.com
 adapi.about.co.kr
-adapi.addealsnetwork.com
 adapi.boomplaymusic.com
 adapi.izuiyou.com
 adapi.tuyensinh247.com
@@ -8811,7 +8806,6 @@ adhslx.com
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -15375,7 +15369,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -22310,6 +22303,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23377,7 +23371,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -24927,6 +24920,7 @@ avcjuzaszorm.in
 avct.cloud
 avd.innity.com
 avd.innity.net
+avdego.net
 avdludlmpseoe.space
 ave-caesar-mas.modivo.io
 avebeentriflin.com
@@ -25789,7 +25783,6 @@ b1img.com
 b1js.com
 b1ll3r11.xyz
 b1n.carabins.umontreal.ca
-b1o8h004u5.com
 b1sync.outbrain.com
 b1sync.zemanta.com
 b1t-chidc2.outbrain.com
@@ -35778,6 +35771,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -38222,7 +38216,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -43620,7 +43613,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -54413,7 +54405,6 @@ di2.zooplus.es
 di2e2m1cmrtc9.cloudfront.net
 di2xlfgjbl0v7.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
-di7stero.com
 diag-vd.gridsumdissector.com
 diag-wd.gridsumdissector.com
 diagmon-policy.samsungdm.com
@@ -65049,7 +65040,6 @@ f3737ec16b.d57b6d1e63.com
 f373c4c8d6.cda84af905.com
 f39989e6f8.com
 f3a95oy5m.com
-f3k194f9i7.com
 f3txy2cuj6hmqkk9o5jzyb.cfd
 f418509b38.com
 f435ee855c.com
@@ -65286,13 +65276,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -69111,6 +69104,7 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -70393,7 +70387,6 @@ g89eyc8a1.com
 g8mv2trk.com
 g8nwdolod.com
 g8tor.com
-g8ygkqhm9p.com
 g8zbpvbgkb.cfd
 g944xcrw.o6cbjty2gb4jcfpv3698.cyou
 g9508048080.co
@@ -72878,6 +72871,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -73083,7 +73077,6 @@ gn-flagpoles.api.bbci.co.uk
 gn.informaengage.com
 gn01.top
 gn4yz5v9z.com
-gn6u494hn.com
 gnail.com
 gnammaparkee.shop
 gnapgvjdksfyl.space
@@ -77481,7 +77474,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -106682,7 +106674,6 @@ looibkennqryb.space
 look-ahead.nurturemarketing.com
 look-i-ya.com
 look.desafio.agentise.ia.br
-look.flowln.com
 look.kfiopkln.com
 look.ufinkln.com
 look09.com
@@ -136869,7 +136860,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -141524,7 +141514,6 @@ quatarambonglabella.qpon
 quatetff2020.weebly.com
 quaybeware.com
 qubaa.tnuck.com
-quber.ru
 qubhjnodheizn.site
 qubisticss.com
 qubitanalytics.appspot.com
@@ -141850,7 +141839,6 @@ qxbroker.com
 qxcqurvolreou.space
 qxdjfb.astoreo.cz
 qxdownload.com
-qxdx2x6kn6.com
 qxegmarewnmgn.website
 qxerzu.dona-d.com
 qxgfdq.maiutazas.hu
@@ -144319,7 +144307,6 @@ r73.adstag0102.xyz
 r7designllc.com
 r7ls.net
 r7pnnukr.xyz
-r7tqkqrvuz.com
 r7zc.scrollingbee.com
 r83imcwl8r.cfd
 r8bz.com
@@ -147567,7 +147554,6 @@ riverlead.ru
 rivestimentiplastici.it
 riveter29.com
 riveter35.top
-rivne.space
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
 rixbeedesk.com
@@ -151407,7 +151393,6 @@ s2s.crestviewautoservice.ca
 s2s.dcac.ca
 s2s.fastgroup.ca
 s2s.g2afse.com
-s2s.getintheloop.ca
 s2s.ilsalottodilulu.it
 s2s.jonaki.com.bd
 s2s.kramertrailersales.com
@@ -157539,6 +157524,7 @@ server.hub.conversio.dk
 server.hubfloor.app
 server.hubfloor.com
 server.hudawaybd.com
+server.hugosilveira.adv.br
 server.humanescer.com
 server.humaniversidade.com.br
 server.huskandseedskincare.co.uk
@@ -168640,6 +168626,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -177214,7 +177201,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181038,6 +181024,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -185833,6 +185820,7 @@ stape.tetecastanha.com.br
 stape.tetonshop.com
 stape.tettu.com.br
 stape.tezeventos.com.br
+stape.thainaracaldas.com.br
 stape.thaispinho.com
 stape.thalitatoniatti.com.br
 stape.thamaraelhajj.com.br
@@ -188302,6 +188290,7 @@ stats.sgs.com
 stats.shaneco.com
 stats.sharenet.co.za
 stats.shareport.com.au
+stats.shh.io
 stats.shopify.com
 stats.sim.de
 stats.sim24.de
@@ -190158,7 +190147,6 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -217016,6 +217004,7 @@ worrycuriositymafia.com
 worryinginadmissible.com
 worserharrid.cfd
 worsetstep.qpon
+worshippers.store
 worst-recognition.pro
 worstbreath.pro
 worstoffice.com
@@ -217814,6 +217803,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -223733,7 +223723,6 @@ ymzukfvbwuofd.site
 yn3.r6jo4br87n1v5bl1xn1htj3kf1.cyou
 yn68b5vn9.com
 yn9fejdw9i.cfd
-yn9k86cpsf.com
 ynafusihflnzm.online
 ynagqs.vidaxl.pl
 ynbgjroxqcyrr.site
@@ -224690,6 +224679,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
