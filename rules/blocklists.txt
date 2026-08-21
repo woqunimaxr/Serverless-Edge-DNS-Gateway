@@ -6517,6 +6517,7 @@ access.hikaritv.net
 access.ly
 access.rottne.com
 access.vidox.net
+accessi.it
 accessibledialoguethen.com
 accessibleweb.com
 accessintel.com
@@ -10615,6 +10616,7 @@ ads.livetv626.me
 ads.livetv632.me
 ads.livetv643.me
 ads.livetv644.me
+ads.livetv662.me
 ads.livetv670.me
 ads.livetv671.me
 ads.livetv673.me
@@ -12604,6 +12606,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -15192,6 +15195,7 @@ alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 alexabyte.site
 alexametrics.com
+alexandra-daddario.com
 alexandria.marfeelcdn.com
 alexandria.warespace.com.au
 alexatracker.com
@@ -15366,8 +15370,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16402,7 +16405,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22305,6 +22307,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -36719,7 +36722,6 @@ cheatmaker.org
 chebelsnigged.shop
 chebfqsmfwovu.online
 check-ftp.ru
-check-tl-ver-294-2.com
 check-update-today.com
 check.buetzandbeats.de
 check.frbservices.org
@@ -42343,6 +42345,7 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
+countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -52466,7 +52469,6 @@ datesnsluts.com
 dateszone.net
 datetrackservice.com
 dateyou2024.com
-dateyourpllace.com
 dati.isopan.pl
 datilhotted.cyou
 dating-amour-club.com
@@ -56185,6 +56187,7 @@ donaldsvogel.com
 donaldvogel.com
 donamorgt.org
 donaryabolete.shop
+donasi.lk21.de
 donate-api.recorder.duapps.com
 donate.recorder.duapps.com
 donaterefuel.com
@@ -65266,16 +65269,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -69093,7 +69093,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -70554,6 +70553,7 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
+galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
@@ -72642,7 +72642,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -72858,7 +72857,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -74768,6 +74766,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77463,7 +77462,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -86617,6 +86615,7 @@ iidoys.wearpact.com
 iidpomfgxqpgx.online
 iieuv.thertastore.com
 iieze.honeybirdette.com
+iifvcfwiqi.com
 iigcqr.linio.com.mx
 iihmb.trtltravel.com
 iihqiezojdtcx.online
@@ -92741,7 +92740,6 @@ jiuse9926.xyz
 jiuwert.online
 jiv.mybluehost.me
 jivingafrithm.cyou
-jivosite.com
 jivox.com
 jivsfr.drogarianovaesperanca.com.br
 jiwire.com
@@ -150439,7 +150437,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -163681,7 +163678,6 @@ shoukigaigoors.net
 shoulderinedible.com
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-3.mediav.com
 show-api.1sapp.com
 show-creative1.com
@@ -168614,7 +168610,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -177192,7 +177187,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181017,7 +181011,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -192044,6 +192037,7 @@ t.clic2buy.com
 t.clickscope.fun
 t.clicktale.net
 t.climateroadtrip.duke.edu
+t.clova.biz
 t.clovahealth.co
 t.cmuchippewas.com
 t.cofcsports.com
@@ -195441,7 +195435,6 @@ telemetry.influxdata.com
 telemetry.insights.video.a2z.com
 telemetry.intel.com
 telemetry.jivo.ru
-telemetry.jivosite.com
 telemetry.jmp.com
 telemetry.jrny.com
 telemetry.kantiv.com
@@ -217049,7 +217042,6 @@ wozdcc.vidaxl.at
 wp-cdn.cityads.com
 wp-club.net
 wp-log.api.useinsider.com
-wp-worthy.de
 wp.24smi.org
 wp.alcmpn.com
 wp.lockmysneaker.com
@@ -218667,7 +218659,6 @@ www.jshonghuadq.com
 www.juicer.cc
 www.juicyads.com
 www.justpremium.com
-www.jutou5.com
 www.juzi.cn
 www.jystea.com
 www.k3bos.com
@@ -219562,7 +219553,6 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
-www.www.my-exodus.com.co
 www.xadsmart.com
 www.xapads.com
 www.xiaodaoyuedu.com
