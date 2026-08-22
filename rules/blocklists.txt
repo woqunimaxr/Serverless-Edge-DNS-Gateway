@@ -344,6 +344,8 @@
 10108bets10.com
 1010data.com
 1017.cn
+101com.com
+101m3.com
 101printable.com
 1024mzs.pw
 1025default.cadriamarketing.com
@@ -947,6 +949,7 @@
 21stccsi.com
 21udflra4wd.app-dev.cainthus.com
 21wiz.com
+22.de
 2222.ro
 222764f169.com
 222gallery.com
@@ -10260,7 +10263,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -12002,6 +12004,7 @@ adsninja.ca
 adsninjacdn.b-cdn.net
 adsniper.ru
 adsocy.com
+adsoftware.com
 adsoftware.top
 adsok.co
 adsolut.in
@@ -15362,6 +15365,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16397,7 +16401,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -18759,7 +18762,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -22449,6 +22451,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23366,6 +23369,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25989,6 +25993,7 @@ backend.pubnative.net
 backend.qimtek.se
 backend.zaczytaj.pl
 backeraxones.shop
+backlink-test.de
 backlink.ir
 backlinkdino.de
 backlinks.com
@@ -26501,6 +26506,7 @@ banners.news1.co.il
 banners.nostringsattached.com
 banners.nova.bg
 banners.outpersonals.com
+banners.parish.eu
 banners.passion.com
 banners.payserve.com
 banners.pickupcloud.com
@@ -35625,6 +35631,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35765,7 +35772,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37041,6 +37047,7 @@ chryvast.com
 chs-matomo-1238305517.eu-west-2.elb.amazonaws.com
 chs03.cookie-script.com
 chshcms.net
+chshop.eu
 chskcg.wolventhreads.com
 chsrkred.com
 cht-srvc.net
@@ -42350,6 +42357,7 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
+countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -56715,7 +56723,6 @@ drbids.com
 drbsliemurknv.website
 drbtcjprbqkhj.site
 drcfwuuwswbni.store
-drctcldff.com
 drd.hauchi.com.tw
 drda5yf9kgz5p.cloudfront.net
 drdevelopmentcolor.com
@@ -65295,16 +65302,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -69126,7 +69130,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -70588,7 +70591,6 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
-galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
@@ -72880,7 +72882,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -75811,7 +75812,6 @@ gtm.autopecasnk.com.br
 gtm.autoroyal.no
 gtm.autumn-blu.com
 gtm.av.convergent.sa
-gtm.avalk.com.br
 gtm.avantejuntos.com.br
 gtm.avanticonexao.com.br
 gtm.avantiopenbanking.com.br
@@ -92016,7 +92016,6 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -102942,7 +102941,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -107768,6 +107766,7 @@ lvditoys.com
 lvdpyp.easy-gliss.com
 lvdtzm.grange.co.uk
 lvdvltsid.com
+lvf.info
 lvfgmuaroloxd.online
 lvhyhm.kobayashi.co.jp
 lvidqa.unisportstore.de
@@ -136884,6 +136883,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -150477,6 +150477,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -151020,7 +151021,6 @@ s.swagprint.com
 s.syzs.qq.com
 s.t5z3w0p.com
 s.tag.moresafer.com
-s.tagstream.co.uk
 s.tamtam.hamburg
 s.tantanapp.com
 s.targetserving.com
@@ -156589,7 +156589,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -158776,7 +158775,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -163725,7 +163723,6 @@ shoukigaigoors.net
 shoulderinedible.com
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-3.mediav.com
 show-api.1sapp.com
 show-creative1.com
@@ -168662,7 +168659,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -177240,6 +177236,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181062,7 +181059,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -224735,7 +224731,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
