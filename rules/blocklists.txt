@@ -10271,6 +10271,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11855,6 +11856,7 @@ adservice.hani.co.kr
 adservice.hepsiburada.com
 adservice.kugou.com
 adservice.sbs.co.kr
+adservice.tohsoft.com
 adservicemedia.dk
 adserviceretry.kugou.com
 adservices.brandcdn.com
@@ -12599,6 +12601,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -15376,7 +15379,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18194,7 +18197,6 @@ analytics.quick-garden.co.uk
 analytics.qumucloud.com
 analytics.qumucloud.com.cdn.cloudflare.net
 analytics.qushad.com
-analytics.qzs-ksa.com
 analytics.ra.ee
 analytics.raamwinkel.be
 analytics.rabanne.com
@@ -18341,7 +18343,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -22318,7 +22319,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22466,7 +22466,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23387,7 +23386,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -28207,7 +28205,6 @@ bftbphjlcefsk.site
 bftvpp.icu
 bfvlgp.appstory.co.kr
 bfwnbnerccsor.space
-bfwzpynoz.com
 bfxszq.miliboo.com
 bfxytxdpnk.com
 bfyaqriuvwrqo.site
@@ -36257,7 +36254,6 @@ centresales.com
 centricgaffkya.com
 centrnotify.com
 centrobelfasthermae.cfd
-centrocirugiaplastica.com
 centskeeper.com
 centumshough.com
 centumsmobbism.qpon
@@ -38260,7 +38256,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -65358,13 +65353,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -66256,6 +66254,7 @@ feldot.com
 felidae.mmm.page
 felidae.mysuperportal.com
 felidae.theforeignarchitect.com
+felidae.top10partnersuche.ch
 feline-fortune.pro
 felinepresume.com
 felitb.rightinthebox.com
@@ -69187,6 +69186,7 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -72727,6 +72727,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -72943,6 +72944,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -77548,6 +77550,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -87279,6 +87282,7 @@ images.go.hardware.group
 images.go.hulft.com
 images.go.ifund.com.hk
 images.go.impinj.com
+images.go.insidelpl.com
 images.go.jll.com
 images.go.mathworks.com
 images.go.metagenics.com
@@ -89206,6 +89210,7 @@ info.paynewest.com
 info.payroll4construction.com
 info.pelicans.com
 info.pella.com
+info.pencewealthmanagement.com
 info.penna.com
 info.penrithpanthers.com.au
 info.pentra.aleragroup.com
@@ -92086,6 +92091,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -103031,6 +103037,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -135854,7 +135861,6 @@ platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
 platform-insights-collector.newrelic.com
-platform-metrics-api.sharethis.com
 platform-metrics.key.com
 platform.33across.com
 platform.adcannyads.com
@@ -137004,7 +137010,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -139008,6 +139013,7 @@ psvpromo.psvgamestudio.com
 psvylueenmhpc.website
 psvyszwcjlflr.site
 psw.mybluehost.me
+pswa93.top
 pswdax.stylepit.no
 pswgpb.seshop.com
 pswlsefuaueke.space
@@ -142501,7 +142507,6 @@ r1---sn-nv47ln6e.c.2mdn.net
 r1---sn-nv47znee.c.2mdn.net
 r1---sn-nv47znel.c.2mdn.net
 r1---sn-nx57ynsk.c.2mdn.net
-r1---sn-nx57ynsl.c.2mdn.net
 r1---sn-nx57ynsr.c.2mdn.net
 r1---sn-nx57ynsy.c.2mdn.net
 r1---sn-nx57ynz7.c.2mdn.net
@@ -142549,7 +142554,6 @@ r1---sn-q4fl6nds.c.2mdn.net
 r1---sn-q4fl6nlz.c.2mdn.net
 r1---sn-q4fl6ns7.c.2mdn.net
 r1---sn-q4fl6nsk.c.2mdn.net
-r1---sn-q4fl6nsr.c.2mdn.net
 r1---sn-q4fl6nsy.c.2mdn.net
 r1---sn-q4fl6nz6.c.2mdn.net
 r1---sn-q4fl6nz7.c.2mdn.net
@@ -142767,7 +142771,6 @@ r2---sn-a5m7lnld.c.2mdn.net
 r2---sn-a5m7lnlr.c.2mdn.net
 r2---sn-a5m7lnly.c.2mdn.net
 r2---sn-a5mekn6k.c.2mdn.net
-r2---sn-a5mekn6l.c.2mdn.net
 r2---sn-a5mekn6r.c.2mdn.net
 r2---sn-a5mekn6s.c.2mdn.net
 r2---sn-a5mekn6z.c.2mdn.net
@@ -142823,7 +142826,6 @@ r2---sn-aigzrn76.c.2mdn.net
 r2---sn-aigzrn7e.c.2mdn.net
 r2---sn-aigzrn7s.c.2mdn.net
 r2---sn-aigzrn7z.c.2mdn.net
-r2---sn-aigzrnld.c.2mdn.net
 r2---sn-aigzrnss.c.2mdn.net
 r2---sn-aigzrnsz.c.2mdn.net
 r2---sn-aigzrnz7.c.2mdn.net
@@ -142870,7 +142872,6 @@ r2---sn-bg0e6nle.c.2mdn.net
 r2---sn-bg0e6nll.c.2mdn.net
 r2---sn-bg0e6nls.c.2mdn.net
 r2---sn-bg0s7n7d.c.2mdn.net
-r2---sn-bg0s7n7s.c.2mdn.net
 r2---sn-bg0s7nld.c.2mdn.net
 r2---sn-bg0s7nlk.c.2mdn.net
 r2---sn-bg0s7nlr.c.2mdn.net
@@ -143205,7 +143206,6 @@ r3---sn-a5m7lnld.c.2mdn.net
 r3---sn-a5m7lnlr.c.2mdn.net
 r3---sn-a5m7lnly.c.2mdn.net
 r3---sn-a5mekn6k.c.2mdn.net
-r3---sn-a5mekn6l.c.2mdn.net
 r3---sn-a5mekn6r.c.2mdn.net
 r3---sn-a5mekn6s.c.2mdn.net
 r3---sn-a5mekn6z.c.2mdn.net
@@ -143316,7 +143316,6 @@ r3---sn-bg0s7n7d.c.2mdn.net
 r3---sn-bg0s7n7k.c.2mdn.net
 r3---sn-bg0s7n7l.c.2mdn.net
 r3---sn-bg0s7n7r.c.2mdn.net
-r3---sn-bg0s7n7s.c.2mdn.net
 r3---sn-bg0s7nld.c.2mdn.net
 r3---sn-bg0s7nlk.c.2mdn.net
 r3---sn-bg0s7nls.c.2mdn.net
@@ -143414,7 +143413,6 @@ r3---sn-p5qs7n6d.c.2mdn.net
 r3---sn-p5qs7n6y.c.2mdn.net
 r3---sn-p5qs7nd7.c.2mdn.net
 r3---sn-p5qs7nsk.c.2mdn.net
-r3---sn-p5qs7nzk.c.2mdn.net
 r3---sn-p5qs7nzr.c.2mdn.net
 r3---sn-p5qs7nzy.c.2mdn.net
 r3---sn-q4fl6n66.c.2mdn.net
@@ -143431,7 +143429,6 @@ r3---sn-q4fl6ndz.c.2mdn.net
 r3---sn-q4fl6nlz.c.2mdn.net
 r3---sn-q4fl6ns7.c.2mdn.net
 r3---sn-q4fl6nsl.c.2mdn.net
-r3---sn-q4fl6nsr.c.2mdn.net
 r3---sn-q4fl6nss.c.2mdn.net
 r3---sn-q4fl6nsy.c.2mdn.net
 r3---sn-q4fl6nz6.c.2mdn.net
@@ -143752,7 +143749,6 @@ r4---sn-bg0s7n76.c.2mdn.net
 r4---sn-bg0s7n7k.c.2mdn.net
 r4---sn-bg0s7n7l.c.2mdn.net
 r4---sn-bg0s7n7r.c.2mdn.net
-r4---sn-bg0s7n7s.c.2mdn.net
 r4---sn-bg0s7nld.c.2mdn.net
 r4---sn-bg0s7nly.c.2mdn.net
 r4---sn-bg0s7ns6.c.2mdn.net
@@ -144072,7 +144068,6 @@ r5---sn-a5m7lnld.c.2mdn.net
 r5---sn-a5m7lnlr.c.2mdn.net
 r5---sn-a5m7lnly.c.2mdn.net
 r5---sn-a5mekn6k.c.2mdn.net
-r5---sn-a5mekn6l.c.2mdn.net
 r5---sn-a5mekn6r.c.2mdn.net
 r5---sn-a5mekn6s.c.2mdn.net
 r5---sn-a5mekn6z.c.2mdn.net
@@ -144271,7 +144266,6 @@ r5---sn-p5qs7n6d.c.2mdn.net
 r5---sn-p5qs7n6y.c.2mdn.net
 r5---sn-p5qs7nd7.c.2mdn.net
 r5---sn-p5qs7nsk.c.2mdn.net
-r5---sn-p5qs7nzk.c.2mdn.net
 r5---sn-p5qs7nzr.c.2mdn.net
 r5---sn-p5qs7nzy.c.2mdn.net
 r5---sn-q4fl6n66.c.2mdn.net
@@ -144287,7 +144281,6 @@ r5---sn-q4fl6nlz.c.2mdn.net
 r5---sn-q4fl6ns7.c.2mdn.net
 r5---sn-q4fl6nsk.c.2mdn.net
 r5---sn-q4fl6nsl.c.2mdn.net
-r5---sn-q4fl6nsr.c.2mdn.net
 r5---sn-q4fl6nss.c.2mdn.net
 r5---sn-q4fl6nsy.c.2mdn.net
 r5---sn-q4fl6nz7.c.2mdn.net
@@ -150616,7 +150609,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -151249,7 +151241,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -156735,6 +156726,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -158921,6 +158913,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -163870,6 +163863,7 @@ shoukigaigoors.net
 shoulderinedible.com
 shoutwiki.club
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-3.mediav.com
 show-api.1sapp.com
 show-creative1.com
@@ -165337,13 +165331,18 @@ smart.rexfordindustrial.com
 smart.styria-digital.com
 smart.tubeadvertising.eu
 smart.wheels.com
+smart1019.lplnow.com
 smart1064.lplnow.com
 smart112.lplnow.com
 smart1adserver.com
 smart2.dppl.com
+smart212.lplnow.com
 smart2cnjuh34jb.com
+smart322.lplnow.com
 smart46.lplnow.com
 smart4ads.com
+smart62.lplnow.com
+smart98.lplnow.com
 smartad.10010.com
 smartadblocker.com
 smartadexchange.xyz
@@ -170271,7 +170270,6 @@ sn-aigl6nzl.c.2mdn.net
 sn-aigl6nzr.c.2mdn.net
 sn-aigl6nzs.c.2mdn.net
 sn-aigzrn7d.c.2mdn.net
-sn-aigzrnld.c.2mdn.net
 sn-aigzrnse.c.2mdn.net
 sn-aigzrnss.c.2mdn.net
 sn-aigzrnsz.c.2mdn.net
@@ -170349,7 +170347,6 @@ sn-hpa7zn6z.c.2mdn.net
 sn-hpa7zns6.c.2mdn.net
 sn-n4v7snee.c.2mdn.net
 sn-n4v7sney.c.2mdn.net
-sn-n4v7snll.c.2mdn.net
 sn-n4v7snlr.c.2mdn.net
 sn-n4v7snls.c.2mdn.net
 sn-n4v7snly.c.2mdn.net
@@ -170397,7 +170394,6 @@ sn-p5qs7n6d.c.2mdn.net
 sn-p5qs7n6y.c.2mdn.net
 sn-p5qs7nd7.c.2mdn.net
 sn-p5qs7nsk.c.2mdn.net
-sn-p5qs7nzk.c.2mdn.net
 sn-p5qs7nzr.c.2mdn.net
 sn-p5qs7nzy.c.2mdn.net
 sn-q4fl6n66.c.2mdn.net
@@ -170416,7 +170412,6 @@ sn-q4fl6nlz.c.2mdn.net
 sn-q4fl6ns7.c.2mdn.net
 sn-q4fl6nsk.c.2mdn.net
 sn-q4fl6nsl.c.2mdn.net
-sn-q4fl6nsr.c.2mdn.net
 sn-q4fl6nss.c.2mdn.net
 sn-q4fl6nsy.c.2mdn.net
 sn-q4fl6nz6.c.2mdn.net
@@ -175748,7 +175743,6 @@ ss.quokkabeds.com.au
 ss.qzino.cc
 ss.qzino.com
 ss.qzipromo.com
-ss.qzs-ksa.com
 ss.rac.quantior-france.com
 ss.radinatural.com
 ss.ragbagstudio.dk
@@ -177383,6 +177377,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -177484,7 +177479,6 @@ ssp.xapads.com
 ssp.yahoo.com
 ssp.youxiaoad.com
 ssp.zeasn.tv
-ssp.zf313.com
 ssp.zog.link
 ssp01.aptoide.com
 ssp01.rambler.ru
@@ -181206,6 +181200,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -191257,7 +191252,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -194636,6 +194630,7 @@ tarzanbajoccopooli.cyou
 tas.anima-suites.com
 tasah.juiceplus.com
 tasgxk4ia6.com
+task.testolabs.co
 taskageenter.cyou
 taskanalytics.com
 taskapi.net
@@ -209008,7 +209003,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -218028,7 +218022,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
