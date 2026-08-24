@@ -4074,7 +4074,6 @@ a2-ws-analytics-pr.azurewebsites.net
 a2.adform.net
 a2.americasavingsexperts.com
 a2.arabsex1.com
-a2.avomeen.com
 a2.borgentech.com
 a2.chartboost.com
 a2.consoletarget.com
@@ -10199,7 +10198,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10267,6 +10265,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15380,7 +15379,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18344,7 +18342,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -35688,7 +35685,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35829,6 +35825,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -38294,7 +38291,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -56594,6 +56590,8 @@ downloadshi.b-cdn.net
 downloadyt.com
 downlogram.com
 downmass.com
+downmn.com
+downmz.com
 downnora.me
 downpayment.fernsby.com
 downright-soup.com
@@ -65428,13 +65426,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -69257,6 +69258,7 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -73014,6 +73016,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -92054,7 +92057,6 @@ jacksgunshop.cc
 jacksonbateaux.com
 jacksonnationallifei.tt.omtrdc.net
 jacky.net.mydays.de
-jacquesvalente.com
 jacquieetmichel-contact.com
 jacsg.belaro.ro
 jada-ny.org
@@ -103134,6 +103136,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -137130,7 +137133,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -151356,7 +151358,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -156842,6 +156843,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -163973,6 +163975,7 @@ shoukigaigoors.net
 shoulderinedible.com
 shoutwiki.club
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-3.mediav.com
 show-api.1sapp.com
 show-creative1.com
@@ -177491,7 +177494,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178466,6 +178468,7 @@ sst.casinorecht.at
 sst.cassaros.fr
 sst.castalie.com
 sst.castellani.eu
+sst.catolicabs.porto.ucp.pt
 sst.catrindecor.com
 sst.cavefencing.co.uk
 sst.cavernhold.com
@@ -181312,6 +181315,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -190442,7 +190446,6 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -190720,8 +190723,6 @@ support.tbllprem.com
 support.tenten.vn
 support.tib.eu
 support0.bigo.sg
-support2.flex.com
-support3.flex.com
 support509.com
 supportacs24.com
 supportedbailednotions.com
@@ -198057,6 +198058,7 @@ tmsnabtrade.nab.com.au
 tmssgm.gruppomade.com
 tmstag.alexlage.com.br
 tmstag.ericolanza.adv.br
+tmstag.fortelarimoveis.com.br
 tmstag.lidersign.com.br
 tmstag.paramulheres.digital
 tmstag.reservadosal.com.br
@@ -218160,6 +218162,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -225049,7 +225052,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
