@@ -887,6 +887,7 @@
 2.tuxi.com.cn
 2.up.qingdaonews.com
 20.edge46.testandtarget.omniture.com
+2000c.cyou
 2000charge.com
 200summit.com
 2012.8684.com
@@ -10188,7 +10189,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10256,7 +10256,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -14504,6 +14503,7 @@ aincrd.champstudy.com
 ainqe.tonaactive.com
 ainrrojwogdkv.store
 ainsyndication.com
+ainu.intel.sg
 ainu.intel.vn
 ainudez.com
 aio.media
@@ -15358,7 +15358,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18320,7 +18320,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -18754,6 +18753,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -22298,6 +22298,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -33270,12 +33271,21 @@ candyjelly.com
 candyoffers.com
 candywarehouse.evergage.com
 cane.intel.cn
+cane.intel.co.jp
 cane.intel.co.kr
+cane.intel.co.uk
 cane.intel.com
+cane.intel.com.au
+cane.intel.com.br
 cane.intel.com.tr
+cane.intel.com.tw
 cane.intel.de
+cane.intel.es
 cane.intel.fr
+cane.intel.in
 cane.intel.it
+cane.intel.la
+cane.intel.pl
 canekilttantrum.com
 canellecrazy.com
 canem-auris.com
@@ -35642,6 +35652,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -56152,14 +56163,20 @@ doglobal.net
 dogmenaesir.cfd
 dognet.sk
 dogo.intel.cn
+dogo.intel.co.jp
 dogo.intel.co.kr
+dogo.intel.co.uk
 dogo.intel.com.au
+dogo.intel.com.br
 dogo.intel.com.tr
 dogo.intel.com.tw
+dogo.intel.de
 dogo.intel.es
 dogo.intel.fr
+dogo.intel.in
 dogo.intel.it
 dogo.intel.la
+dogo.intel.pl
 dogshipbeardie.qpon
 dogt.xyz
 dogtreats.muttyprints.com
@@ -71012,6 +71029,7 @@ gateway.cloud.sbs.co.kr
 gateway.craftinfocus.com
 gateway.cybertransform.com
 gateway.dbandit.com
+gateway.denso-am.eu
 gateway.euvou.events
 gateway.exoqarys.com
 gateway.five-am.com
@@ -77570,7 +77588,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -78947,6 +78964,7 @@ gtm.nostalgia.retrobox.app.br
 gtm.notarypro.ca
 gtm.notazz.com
 gtm.novadigy.com
+gtm.novaiflex.com.br
 gtm.novakute.com
 gtm.novavisaooftalmo.com.br
 gtm.novayorkevoce.com
@@ -84372,7 +84390,6 @@ hotblognetwork.com
 hotboysnearby.net
 hotbwekihu.com
 hotbwilipe.today
-hotbxocajo.today
 hotchat-im.iqiyi.com
 hotcore.info
 hotdate.co.il
@@ -88684,7 +88701,6 @@ info.aranzadilaley.es
 info.archerdx.com
 info.arclogics.com
 info.ardentsolutionsllc.aleragroup.com
-info.arp.com
 info.arrowheadtownecenter.com
 info.ascassociation.org
 info.asce.org
@@ -90022,7 +90038,6 @@ insights-jobs-ingress.prod.leanplum.com
 insights-mxp.coursecareers.com
 insights-tag.convertkit.com
 insights.academy.com
-insights.accessiblu.com
 insights.aiu.edu.au
 insights.aiu.sg
 insights.algolia.io
@@ -108290,7 +108305,6 @@ m.kwai.com
 m.la71f.cn
 m.ladrillos.ar
 m.laigame7.net
-m.laoqu123.com
 m.lmnts.click
 m.loopme.me
 m.lourawright.com
@@ -137486,6 +137500,7 @@ praystakeinstinct.com
 prbii.rugs-direct.com
 prbn.ru
 prbxckwtajncq.space
+prcappzone.intel.com
 prchecker.info
 prchnloyitvdf.website
 prcji.kennyflowers.com
@@ -158948,6 +158963,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -159799,7 +159815,6 @@ service.ad.adesk.com
 service.arredamentopari.com
 service.athlon.com
 service.bambus-parkett.de
-service.bechtle.com
 service.charitiesaidfoundation.org.uk
 service.cmp.oath.com
 service.danmu.youku.com
@@ -168842,6 +168857,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -177416,6 +177432,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -186595,6 +186612,7 @@ stashpatrick.com
 stat-analytics.mediavitrina.ru
 stat-api.gismeteo.net
 stat-api.meteofor.com
+stat-avance.com.br
 stat-collector.totalbattle.com
 stat-common.youku.com
 stat-confluence.escap.un.org
@@ -190361,6 +190379,7 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -191823,6 +191842,7 @@ syndication.epcmk.com
 syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
+syndication.intel.com
 syndication.jsadapi.com
 syndication.link2az.com
 syndication.link2nx.com
@@ -218077,7 +218097,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -219710,6 +219729,7 @@ www.trustami.com
 www.trustsoft.com
 www.trustx.org
 www.trvl-px.com.edgekey.net
+www.tsyschoicebusiness.com
 www.ttyyuuoo.com
 www.tubeadnetwork.com
 www.tubeadvertising.eu
